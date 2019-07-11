@@ -1,2 +1,2 @@
 # github-demo
-Test
+This line from remote repository.
